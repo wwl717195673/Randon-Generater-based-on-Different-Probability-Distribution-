@@ -1,3 +1,29 @@
 # 满足特定概率分布的随机数生成器
 该生成器中满足的概率分布有以下25种：
+BetaDistribution.java
+BinomialDistribution.java
+CauchyDistribution.java
+ChiSquaredDistribution.java
+ConstantRealDistribution.java
+ExponentialDistribution.java
+FDistribution.java
+GammaDistribution.java
+GeometricDistribution.java
+GumbelDistribution.java
+HypergeometricDistribution.java
+LaplaceDistribution.java
+LevyDistribution.java
+LogisticDistribution.java
+NakagamiDistribution.java
+NormalDistribution.java
+ParetoDistribution.java
+PascalDistribution.java
+PoissonDistribution.java
+TDistribution.java
+TriangularDistribution.java
+UniformIntegerDistribution.java
+UniformRealDistribution.java
+WeibullDistribution.java
+ZipfDistribution.java
 
+欢迎使用！
